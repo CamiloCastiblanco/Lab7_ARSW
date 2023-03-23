@@ -1,14 +1,11 @@
 
 ### Escuela Colombiana de Ingeniería
 ### Arquitecturas de Software - ARSW
-## Laboratorio Construción de un cliente 'grueso' con un API REST, HTML5, Javascript y CSS3. Parte II.
 
-### Dependencias:
-* [Laboratorio API REST para la gestión de planos.](https://github.com/ARSW-ECI-beta/REST_API-JAVA-BLUEPRINTS_PART2)
-* [Laboratorio construción de un cliente ‘grueso’ con un API REST, HTML5, Javascript y CSS3. Parte I](https://github.com/ARSW-ECI-beta/REST_CLIENT-HTML5_JAVASCRIPT_CSS3_GRADLE-BLUEPRINTS_PART1)
+### Presentado por:
+* Francisco Marquez Bocanegra
+* Brayan Camilo Castiblanco
 
-### Descripción 
-Este laboratorio tiene como fin, actualizar en Front para que se pueda comunicar con los servicios del REST API desarrollado anteriormente
 ### Parte I
 
 ![](img/mock2.png)
